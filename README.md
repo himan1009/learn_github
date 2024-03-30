@@ -1,4 +1,4 @@
 # learn_github
 This is my learning github repo.
 <br>
-Author - Himanshu Kumar
+Author - Himanshu(IIIT BHGALPUR)
